@@ -23,7 +23,14 @@
 
 ---
 
-### $ cat contact.md 📇
-  
-📧 **Email**: [rigved.harmalkar123@gmail.com](mailto:rigved.harmalkar123@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/rigved-harmalkar-8392b7201/](https://linkedin.com/in/rigved-harmalkar-8392b7201/)
+
+### $ cat contact.md 📬
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rigved-harmalkar-8392b7201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[rigved.harmalkar123@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
