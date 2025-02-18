@@ -24,7 +24,7 @@
 ### GitHub Stats 📈
 
 <!-- Software Engineering Focus -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide=html,css&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigved-harmalkar&layout=compact&theme=dark&hide=html,css&langs_count=6)
 
 <!-- Data Science Activity -->
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=rigved-harmalkar&theme=dark&date_format=j%20M%5B%20Y%5D)
