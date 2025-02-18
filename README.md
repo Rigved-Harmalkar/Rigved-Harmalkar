@@ -1,17 +1,14 @@
-# Hola 👋
+# Hola 👋  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=A+Full+Stack+Developer;Tech+Enthusiast)
 
-## A Full Stack Developer (or expand "A Full S" as needed)
-
-- I'm currently a final year Computer Science and Engineering (CSE) student.
-- I'm a tech enthusiast who loves to learn about new technologies.
+- 🔭 I’m currently a final-year CSE student  
+- 🌱 Learning Rust & cloud technologies  
 
 ---
 
-### Languages and Tools 🛠️
+### Languages and Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,html,css,js,jquery,mysql,mongodb,nodejs,php" />
+</p>
 
-| **Programming** | **Web**        | **Databases**  | **Others**     |
-|------------------|----------------|----------------|----------------|
-| C                | HTML5          | MySQL          | Node.js        |
-| C++              | CSS3           | MongoDB        | PHP            |
-| Python           | JavaScript     |                |                |
-| Rust             | jQuery         |                |                |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
