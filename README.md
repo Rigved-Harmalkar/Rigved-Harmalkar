@@ -1,16 +1,17 @@
-# Hola 👋  
+# $ /usr/bin/whoami 👋
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Software+Engineer;Data+Scientist)
-- 🔭 Graduate CSE from University College Dublin
-- 💻 Building scalable systems & exploring data-driven solutions 
-- 🌱  
+- 🔭 **CSE Graduate** from University College Dublin  
+- 💻 Building scalable systems & exploring data-driven solutions
+- 🌱 Startup-Tested Engineer | Deployed and optimized ML models for production at Assiduous and Epic Conjoint, both based in Dublin, Ireland, driving data-driven insights and operational improvements.
+
 
 ---
 
-### Skills & Tools 🛠️
+### $ ./skills 🛠️
 
 #### **Software Engineering**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,py,linux,git,docker,kubernetes,bash,aws" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,linux,git,docker,k8s,bash,aws" />
 </p>
 
 #### **Data Science**
@@ -22,10 +23,7 @@
 
 ---
 
-### GitHub Stats 📈
-
-<!-- Software Engineering Focus -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigved-Harmalkar&layout=compact&theme=dark&hide=html,css&langs_count=6)
-
-<!-- Data Science Activity -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Rigved-Harmalkar&theme=dark&date_format=j%20M%5B%20Y%5D)
+### $ cat contact.md 📇
+  
+📧 **Email**: [rigved.harmalkar123@gmail.com](mailto:rigved.harmalkar123@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/rigved-harmalkar-8392b7201/](https://linkedin.com/in/rigved-harmalkar-8392b7201/)
